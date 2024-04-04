@@ -10,7 +10,7 @@ get the second point (x2,y2)
 ### Step 3: 
 Substitute the values in the distance formula  ![formula](/formula.JPG)
 ### Step 4: 
-print the calculated distance between those two points
+print the calculated distance between those two pointS.
 ### Step 5: 
 end the program
 ### PROGRAM:
@@ -34,4 +34,4 @@ print("{:0.2f}".format(distance))
 
 
 ### RESULT:
-The code is executed sucessfully.
+The DISTANCE-BETWEEN-TWO-POINTS is executed sucessfully.
